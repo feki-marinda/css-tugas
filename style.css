@@ -18,7 +18,7 @@
     align-items: center;
     margin: 30px 0;
     background-color: rgb(255, 255, 255);
-    width: 350px;
+    width: 370px;
     border: 2px solid #cac4c4;
     height: 450px;
 }
@@ -92,7 +92,7 @@
 }
 
 .dont {
-    width: 350px;
+    width: 370px;
     height: 50px;
     background-color: white;
     font-size: 14px;
@@ -103,7 +103,7 @@
 }
 
 .app {
-    width: 350px;
+    width: 370px;
     height: 50px;
     background-color: white;
     font-size: 14px;
@@ -120,5 +120,5 @@
 .aple img {
     width: 130px;
     height: 50px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
